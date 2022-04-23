@@ -27,8 +27,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="800em" src="https://github-readme-stats.vercel.app/api?username=NaironCarneiro&show_icons=true&theme=tokyonight" alt="NaironCarneiro's stats"/>
-<img width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaironCarneiro&layout=compact&theme=tokyonight" alt="NaironCarneiro's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=NaironCarneiro&show_icons=true&theme=tokyonight" alt="NaironCarneiro's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaironCarneiro&layout=compact&theme=tokyonight" alt="NaironCarneiro's most languages"/>
 </p>
 
 <br><br>
