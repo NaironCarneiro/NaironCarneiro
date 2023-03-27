@@ -4,9 +4,7 @@
 
 - 🔥 Computer Science Student and Developer Front-End.
 
-- 👨‍💻 All of my projects are available at [github.com/NaironCarneiro](https://github.com/NaironCarneiro)
-
-- 💬 Ask me about **TypeScript, JavaScript, HTML, CSS, ReactJS**
+- 💬 Ask me about **TypeScript, JavaScript, HTML, CSS, ReactJS, NextJS**
 
 
 <br><br>
