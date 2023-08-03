@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Nairon Carneiro</h1>
+<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">I'm Nairon Carneiro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naironcarneiro&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Computer Science Student and Developer Front-End.
