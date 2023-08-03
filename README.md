@@ -39,5 +39,11 @@
 <a href="https://instagram.com/naironsant0s" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-naironsantos-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+<a href="https://ncarneiro.vercel.app" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-naironcarneiro-05122A?logo=portfolio" alt="portfolio"/>
+</a>
+<a href="mailto:nsantoscarneiro@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-naironcarneiro-05122A?logo=gmail" alt="gmail"/>
+</a>
 
 </p>
