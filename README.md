@@ -30,7 +30,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨🏾‍💻 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://br.linkedin.com/in/nairon-santos-carneiro-7103a9157" target="_blank">
